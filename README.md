@@ -8,8 +8,8 @@ Dukungan eksperimental untuk [qb-core](https://github.com/qbcore-framework/qb-co
 
 # Config
 
-Refer to the setting your config.
-When set, you can add the following to your 'server.cfg'
+Lihat pengaturan konfigurasi Anda.
+Saat diatur, Anda dapat menambahkan yang berikut ini ke 'server.cfg' Anda
 
 ```
 exec @ox_inventory/config.cfg

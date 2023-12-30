@@ -53,13 +53,13 @@ Setelah Anda mendaftar, buat kunci API dan tambahkan 'set datadog:key 'apikey' k
 - Dumpsters, drops, and non-player vehicles.
 - Loot tables allow users to find random items in dumpsters and unowned vehicles.
 
-<br><div><h4 align='center'><a href='https://discord.gg/hmcmv3P7YW'>Discord Server</a></h4></div><br>
+<br><div><h4 align='center'><a href='https://discord.gg/69FyZc2Y'>Discord Server</a></h4></div><br>
 
 <table><tr><td><h3 align='center'>Legal Notices</h2></tr></td>
 <tr><td>
 Ox Inventory
 
-Copyright © 2022 [Linden]()
+Copyright © 2022 []()
 Program ini adalah perangkat lunak bebas: Anda dapat mendistribusikan ulang dan / atau memodifikasi
 itu di bawah ketentuan Lisensi Publik Umum GNU sebagaimana diterbitkan oleh
 Free Software Foundation, baik versi 3 dari Lisensi, atau

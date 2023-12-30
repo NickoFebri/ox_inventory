@@ -5,8 +5,7 @@ game 'gta5'
 name 'ox_inventory'
 author 'Meosiyur'
 version '2.37.4'
-repository 'https://github.com/NippenStone/ox_inventory'
-repository ''
+repository 'https://github.com/KevinsProject/ox_inventory'
 description 'Membuka Tas Untuk Mengambil Barang By overextended edit Meosiyur'
 
 dependencies {

@@ -3,9 +3,9 @@ use_experimental_fxv2_oal 'yes'
 lua54 'yes'
 game 'gta5'
 name 'ox_inventory'
-author 'By Meosiyur edit KevinsProject'
+author 'By NickoFebri'
 version '2.37.4'
-repository 'https://github.com/KevinsProject/ox_inventory'
+repository 'https://github.com/NickoFebri/ox_inventory'
 description 'Membuka Tas Untuk Mengambil Barang By overextended edit Meosiyur'
 
 dependencies {

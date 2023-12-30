@@ -18,9 +18,9 @@ ensure ox_inventory
 
 # Logging
 
-The _free plan_ is enough for most user's purposes and provides far more utility than the typical weird discord logs utilised in other resources.
+_free plan_ ini cukup untuk sebagian besar tujuan pengguna dan menyediakan utilitas yang jauh lebih banyak daripada log perselisihan aneh khas yang digunakan dalam sumber daya lain.
 
-Once you have registered, generate an API key and add `set datadog:key 'apikey'` to your server config.
+Setelah Anda mendaftar, buat kunci API dan tambahkan 'set datadog:key 'apikey' ke konfigurasi server Anda.
 
 # Features
 

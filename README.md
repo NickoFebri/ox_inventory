@@ -71,6 +71,6 @@ DAPAT DIPERJUALBELIKAN ATAU KESESUAIAN UNTUK TUJUAN TERTENTU. Lihat
 GNU General Public License untuk lebih jelasnya.
 
 Anda seharusnya menerima .
-If not, see <https://www.gnu.org/licenses/>
+If not, see <>
 
 </td></tr></table>

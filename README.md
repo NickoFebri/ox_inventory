@@ -18,7 +18,6 @@ ensure ox_inventory
 
 # Logging
 
-The included logging module utilises datadog to store logging data, which can be expanded for improved analytics and metrics. Register an account at [datadoghq](https://www.datadoghq.com/).
 The _free plan_ is enough for most user's purposes and provides far more utility than the typical weird discord logs utilised in other resources.
 
 Once you have registered, generate an API key and add `set datadog:key 'apikey'` to your server config.
@@ -27,27 +26,27 @@ Once you have registered, generate an API key and add `set datadog:key 'apikey'`
 
 ### Shops
 
-- Creates different shops for 24/7, Ammunation, Liquor Stores, Vending Machines, etc.
-- Job restricted shops, such as a Police Armoury.
-- Items can be restricted to specific job grades and licenses.
-- Define the price for each item, and even allow different currency (black money, poker chips, etc).
+- Membuat toko yang berbeda untuk 24/7, Ammunasi, Toko Minuman Keras, Mesin Penjual Otomatis, dll.
+- Toko terbatas pekerjaan, seperti Gudang Senjata Polisi.
+- Item dapat dibatasi untuk nilai pekerjaan dan lisensi tertentu.
+- Tentukan harga untuk setiap item, dan bahkan memungkinkan mata uang yang berbeda (uang hitam, chip poker, dll).
 
 ### Items
 
-- Generic item data shared between objects.
-- Specific data stored per-slot, with metadata to hold custom information.
-- Weapons, attachments, and durability.
-- Flexible item use allows for progress bars, server callbacks, and cancellation with simple functions and exports.
-- Support for items registered with ESX.
+- Data item generik dibagi antara objek.
+- Data spesifik disimpan per-slot, dengan metadata untuk menyimpan informasi khusus.
+- Senjata, lampiran, dan daya tahan.
+- Penggunaan item yang fleksibel memungkinkan bilah kemajuan, panggilan balik server, dan pembatalan dengan fungsi dan ekspor sederhana.
+- Dukungan untuk item yang terdaftar di ESX.
 
 ### Stashes
 
-- Server-side security prevents arbitrary access to any stash.
-- Support personal stashes, able to be opened with different identifiers.
-- Job-restricted stashes as well as a police evidence locker.
-- Server exports allow for registration of stashes from any resource (see [here](https://github.com/overextended/ox_inventory_examples/blob/main/server.lua)).
-- Access small stashes via containers, such as paperbags, from using an item.
-- Vehicle gloveboxes and trunks, for both owned and unowned.
+- Keamanan sisi server mencegah akses sewenang-wenang ke simpanan apa pun.
+- Dukungan simpanan pribadi, dapat dibuka dengan pengidentifikasi yang berbeda.
+- Simpanan yang dibatasi pekerjaan serta loker bukti polisi.
+- Ekspor server memungkinkan pendaftaran simpanan dari sumber daya apa pun (lihat [di sini](https://github.com/FreyasStone/ox_inventory_examples/blob/main/server.lua)).
+- Akses simpanan kecil melalui wadah, seperti kantong kertas, dari menggunakan barang.
+- Kotak sarung tangan dan bagasi kendaraan, baik untuk yang dimiliki maupun yang tidak dimiliki.
 
 ### Temporary stashes
 
@@ -60,20 +59,18 @@ Once you have registered, generate an API key and add `set datadog:key 'apikey'`
 <tr><td>
 Ox Inventory
 
-Copyright © 2022 [Linden](https://github.com/thelindat), [Dunak](https://github.com/dunak-debug), [Luke](https://github.com/LukeWasTakenn)
+Copyright © 2022 [Linden]()
+Program ini adalah perangkat lunak bebas: Anda dapat mendistribusikan ulang dan / atau memodifikasi
+itu di bawah ketentuan Lisensi Publik Umum GNU sebagaimana diterbitkan oleh
+Free Software Foundation, baik versi 3 dari Lisensi, atau
+(sesuai pilihan Anda) versi yang lebih baru.
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+Program ini disalurkan dengan harapan bermanfaat,
+tetapi TANPA JAMINAN APA PUN; bahkan tanpa jaminan tersirat dari
+DAPAT DIPERJUALBELIKAN ATAU KESESUAIAN UNTUK TUJUAN TERTENTU. Lihat
+GNU General Public License untuk lebih jelasnya.
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.
+Anda seharusnya menerima .
 If not, see <https://www.gnu.org/licenses/>
 
 </td></tr></table>

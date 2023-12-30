@@ -44,7 +44,7 @@ Setelah Anda mendaftar, buat kunci API dan tambahkan 'set datadog:key 'apikey' k
 - Keamanan sisi server mencegah akses sewenang-wenang ke simpanan apa pun.
 - Dukungan simpanan pribadi, dapat dibuka dengan pengidentifikasi yang berbeda.
 - Simpanan yang dibatasi pekerjaan serta loker bukti polisi.
-- Ekspor server memungkinkan pendaftaran simpanan dari sumber daya apa pun (lihat [di sini](https://github.com/FreyasStone/ox_inventory_examples/blob/main/server.lua)).
+- Ekspor server memungkinkan pendaftaran simpanan dari sumber daya apa pun (lihat [di sini](https://github.com/KevinsProject/ox-inventory-examples/blob/main/server.lua)).
 - Akses simpanan kecil melalui wadah, seperti kantong kertas, dari menggunakan barang.
 - Kotak sarung tangan dan bagasi kendaraan, baik untuk yang dimiliki maupun yang tidak dimiliki.
 

@@ -1,4 +1,4 @@
-<div align='center'><img src='https://user-images.githubusercontent.com/65407488/20231230_134848.png'/></div>
+<div align='center'><img src='20231230_134848.png'/></div>
 <div align='center'><h3><a href='https://overextended.github.io/docs/ox_inventory/'>Read the documentation for setup, installation, and integration</a></h3></div>
 
 # Framework
